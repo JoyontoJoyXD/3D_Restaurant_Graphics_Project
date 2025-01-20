@@ -1,6 +1,6 @@
 # 3D Restaurant Graphics Project
 
-![Project Screenshot](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot%20(1478).png)
+![Project Screenshot](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/link-to-screenshot.png)
 
 ## Introduction
 The **3D Restaurant Graphics Project** is a computer graphics application built using **OpenGL** that simulates a 3D restaurant environment with tables, chairs, and lighting effects. The project showcases realistic shading and rendering techniques to create a visually appealing restaurant scene.
