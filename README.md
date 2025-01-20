@@ -70,9 +70,6 @@ Ensure you have the following installed on your system:
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 For any queries or suggestions, please reach out via:
 - Email: 20201005@uap-bd.edu, 20201021@uap-bd.edu, 20201031@uap-bd.edu
