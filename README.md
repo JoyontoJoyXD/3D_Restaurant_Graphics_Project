@@ -48,6 +48,10 @@ Ensure you have the following installed on your system:
 
 ## Screenshots
 ![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/link-to-screenshot.png)
+![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot (1478).png)
+![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot (1479).png)
+![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot (1480).png)
+![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot (1481).png)
 
 ## Usage
 - Use keyboard inputs to navigate through the restaurant.
