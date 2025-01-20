@@ -1,6 +1,6 @@
 # 3D Restaurant Graphics Project
 
-![Project Screenshot](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/link-to-screenshot.png)
+![Project Screenshot](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot%20(1478).png)
 
 ## Introduction
 The **3D Restaurant Graphics Project** is a computer graphics application built using **OpenGL** that simulates a 3D restaurant environment with tables, chairs, and lighting effects. The project showcases realistic shading and rendering techniques to create a visually appealing restaurant scene.
@@ -40,18 +40,17 @@ Ensure you have the following installed on your system:
 │-- include/           # Header files (camera.h, shader.h, etc.)
 │-- src/               # Source code files (main.cpp, lighting logic)
 │-- shaders/           # Shader files (vertexShader.vs, fragmentShader.fs)
-│-- assets/            # Textures, models
+│-- assets/            # Models
 │-- README.md          # Project documentation
 │-- LICENSE            # License information
 │-- .gitignore         # Git ignore file
 ```
 
 ## Screenshots
-![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/link-to-screenshot.png)
-![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot (1478).png)
-![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot (1479).png)
-![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot (1480).png)
-![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot (1481).png)
+![Restaurant Scene 1](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot%20(1478).png)
+![Restaurant Scene 2](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot%20(1479).png)
+![Restaurant Scene 3](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot%20(1480).png)
+![Restaurant Scene 4](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/Screenshot%20(1481).png)
 
 ## Usage
 - Use keyboard inputs to navigate through the restaurant.
@@ -76,7 +75,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any queries or suggestions, please reach out via:
-- Email: 20201005@uap-bd.edu Or, 20201021@uap-bd.edu Or, 20201031@uap-bd.edu
+- Email: 20201005@uap-bd.edu, 20201021@uap-bd.edu, 20201031@uap-bd.edu
+
 ---
 
 Thank you for checking out the 3D Restaurant Graphics Project! Enjoy exploring the 3D world.
