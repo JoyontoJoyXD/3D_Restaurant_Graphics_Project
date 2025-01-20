@@ -1,5 +1,10 @@
 # 3D Restaurant Graphics Project
 
+## Contributors
+- **Joyanto Das (20201005)**
+- **Jannatul Ferdus Shuchona (20201021)**
+- **Sumaia Akter (20201031)**
+
 ![Project Screenshot](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/link-to-screenshot.png)
 
 ## Introduction
@@ -61,11 +66,6 @@ Ensure you have the following installed on your system:
 - Add interactive elements such as moving objects.
 - Implement texture mapping for enhanced realism.
 - Introduce camera movement using mouse inputs.
-
-## Contributors
-- **Joyanto Das (20201005)**
-- **Jannatul Ferdus Shuchona (20201021)**
-- **Sumaia Akter (20201031)**
 
 ## Contributions
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
