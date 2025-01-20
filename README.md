@@ -1,6 +1,6 @@
 # 3D Restaurant Graphics Project
 
-![Project Screenshot](link-to-screenshot)
+![Project Screenshot](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/link-to-screenshot.png)
 
 ## Introduction
 The **3D Restaurant Graphics Project** is a computer graphics application built using **OpenGL** that simulates a 3D restaurant environment with tables, chairs, and lighting effects. The project showcases realistic shading and rendering techniques to create a visually appealing restaurant scene.
@@ -28,7 +28,7 @@ Ensure you have the following installed on your system:
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/3D_Restaurant_Graphics_Project.git
+   git clone https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project.git
    cd 3D_Restaurant_Graphics_Project
    ```
 2. Open the project in Visual Studio.
@@ -47,7 +47,7 @@ Ensure you have the following installed on your system:
 ```
 
 ## Screenshots
-![Restaurant Scene](link-to-screenshot)
+![Restaurant Scene](https://github.com/JoyontoJoyXD/3D_Restaurant_Graphics_Project/blob/main/link-to-screenshot.png)
 
 ## Usage
 - Use keyboard inputs to navigate through the restaurant.
@@ -73,7 +73,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For any queries or suggestions, please reach out via:
 - Email: 20201005@uap-bd.edu Or, 20201021@uap-bd.edu Or, 20201031@uap-bd.edu
-
 ---
 
 Thank you for checking out the 3D Restaurant Graphics Project! Enjoy exploring the 3D world.
